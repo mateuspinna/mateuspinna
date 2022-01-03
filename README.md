@@ -22,7 +22,7 @@
 </p>
 <p>
 <h4 align="left">
-	Linguagens e interesses:
+	No momento estou estudando essas Linguagens:
 </h4>
 </p>
 
