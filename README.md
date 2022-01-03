@@ -26,8 +26,6 @@
 </h4>
 </p>
 
-                </body>
-
 <p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="80" height="80"/>
 	</a>
