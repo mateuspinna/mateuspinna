@@ -18,7 +18,7 @@
 	</a>
 </p>
 <p>
-<img width="370px" align="right" src=https://github-readme-stats.vercel.app/api?username=mateuspinna&title_color=A9A9A9&text_color=A9A9A9&bg_color=000000&locale=pt-br&show_icons=1&include_all_commits=1&icon_color=1E90FF">
+<img width="370px" align="right" src=https://github-readme-stats.vercel.app/api?username=mateuspinna&title_color=A9A9A9&text_color=A9A9A9&bg_color=000000&locale=pt-br&show_icons=1&include_all_commits=1&icon_color=FFFFFF">
 </p>
 <p>
 <h4 align="left">
