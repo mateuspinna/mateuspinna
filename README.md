@@ -14,7 +14,7 @@
 </h4>
 
 <p align="left">
-	<a href="https://linkedin.com/in/mateuspinna" target="blank"><img align="center" src="https://scontent.fsdu16-1.fna.fbcdn.net/v/t39.30808-6/267422938_4880673518668256_5792791296770782057_n.png?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DfDUBUkwicMAX_NltZW&_nc_ht=scontent.fsdu16-1.fna&oh=00_AT9z7eLjMCnh4JXbbTXxG7yua4KIPsxk9rmYPq3x60qVLg&oe=61D71E69" alt="gustavmartins" height="80" width="80" />
+	<a href="https://linkedin.com/in/mateuspinna" target="blank"><img align="center" src="https://scontent.fsdu16-1.fna.fbcdn.net/v/t39.30808-6/267422938_4880673518668256_5792791296770782057_n.png?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DfDUBUkwicMAX_NltZW&_nc_ht=scontent.fsdu16-1.fna&oh=00_AT9z7eLjMCnh4JXbbTXxG7yua4KIPsxk9rmYPq3x60qVLg&oe=61D71E69" alt="mateus" height="80" width="80" />
 	</a>
 </p>
 <p>
