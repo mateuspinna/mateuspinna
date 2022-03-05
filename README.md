@@ -5,7 +5,7 @@
 	<img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
 </h1>
 
-- 📫 Contato **mateuspinna@gmail.com**
+- 📫 Contato **mateuslousa@gmail.com**
 
 - <img alt="GIF" src="https://i.imgur.com/1uh4ZyY.gif" width="20vw"/> Atualmente estudando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.** 
 
