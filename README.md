@@ -1,7 +1,7 @@
 
 <h1>
 	Hello World!<br>
-  <h2>Meu nome é Mateus Pinna Lousa, tenho 25 anos e estou atualmente estudando programação.<br></h2>
+  <h2>Meu nome é Mateus Pinna Lousa, tenho 26 anos e estou atualmente estudando programação.<br></h2>
 	<img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
 </h1>
 
