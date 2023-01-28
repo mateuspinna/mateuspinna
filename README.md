@@ -1,35 +1,23 @@
 
-<h1>
-	Hello World!<br>
-  <h2>Meu nome é Mateus Pinna Lousa, tenho 26 anos e estou atualmente estudando programação.<br></h2>
-	<img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
-</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79846426/215233132-0e02a957-8d3d-4e38-85d8-fdedb3680467.gif" alt="animated" />
+</p>
 
-- 📫 Contato **mateuslousa@gmail.com**
+<h1 align="center">Hey! Bem vindo ao meu perfil!</h1>
+<p>Sou apenas um entusiasta nesse mundo da tecnologia mas estou curtindo muito aprender junto dos cadetes da 42. Ingressei na 42 RIO em maio de 2022 sem nenhuma experiência anteior com programação e desde então sigo descobrindo mais desse universo incrível. Para quem não conhece a 42 tem 3 pilares em sua pedagogia: Project based learning, peer to peer learning e gamification. Aprender a aprender e apreder a compartilhar são skills que eu exercito todos os dias durante minha jornada como cadete e tenho certeza de que vou carregar para todas as áreas da minha vida. Caso tenha algum interesse em comum fique a vontade para me mandar uma mensagem.</p>
 
-- <img alt="GIF" src="https://i.imgur.com/1uh4ZyY.gif" width="20vw"/> Atualmente estudando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.** 
+Você pode me encontrar por esse email -> **mateuslousa@gmail.com**
 
-<h4 align="left">
-	Meus links:
-</h4>
-
+<h4 align="left">Ou em outras redes</h4>
 <p align="left">
-	<a href="https://linkedin.com/in/mateuspinna" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mateus" height="80" width="80" />
-	</a>
-</p>
-<p>
-<img width="370px" align="right" src=https://github-readme-stats.vercel.app/api?username=mateuspinna&title_color=A9A9A9&text_color=A9A9A9&bg_color=000000&locale=pt-br&show_icons=1&include_all_commits=1&icon_color=FFFFFF">
-</p>
-<p>
-<h4 align="left">
-	No momento estou estudando essas Linguagens:
-</h4>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-pinna-61065b14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-pinna-61065b14a/" height="20" width="30" /></a>
 </p>
 
-<p align="left">
-	<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="80" height="80"/>
-	</a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://becode.com.br/wp-content/uploads/2017/02/C-e1486725232513.png" alt="c" width="80" height="80"/>
-	</a>
-</p>
+<h4 align="left">Essas são as linguagens e ferramentas que estudo / tenho interesse</h4>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuspinna&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mateuspinna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspinna&show_icons=true&theme=onedark&locale=en" alt="mateuspinna" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuspinna&theme=dark" alt="mateuspinna" /></p>
